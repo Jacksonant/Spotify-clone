@@ -1,7 +1,8 @@
 var TOKEN= ""
-var client_id = "f61b7cb0f4c24ff4a495cc36696d8ef9"
+var client_id = "34cf8004f77647feb2baf80694552e23"
+// var redirect_uri = "jacksonant.github.io/Spotify-clone/"
 var redirect_uri = window.location.origin
-//var redirect_uri = window.location.href
+// var redirect_uri = window.location.href
 // var redirect_uri = "http://127.0.0.1:5500"
 var scope = "user-read-private user-read-email user-top-read"
 // console.log("AAA")
